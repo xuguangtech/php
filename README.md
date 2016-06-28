@@ -10,7 +10,7 @@ Smart/Stone框架
 * SOA，业务模块化
 * 全面采用命名空间+autoload，代码中无需任何的include/require
 * 全局注册树，所有资源都挂载到全局树上，彻底实现资源的单例管理和懒加载
-* 即时通信
+* 即时通信，支持UDP/TCP协议
 * 分布式部署
 
 Composer
